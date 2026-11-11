@@ -31,7 +31,3 @@ npm run dev -- --host 0.0.0.0 --port 5173
 
 Then open http://localhost:5173.
 
-## Notes
-
-- The app uses simulated demand and analytics data labelled clearly as demo data.
-- This is a V1 foundation intended to be extended with real geospatial and ML integrations later.
